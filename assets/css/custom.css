@@ -1,0 +1,5 @@
+.center-text {
+  max-width: 36rem;     /* 控制行宽，像剧中独白 */
+  margin: 0 auto;
+  text-align: center;
+}
