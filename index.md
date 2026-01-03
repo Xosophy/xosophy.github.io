@@ -1,6 +1,5 @@
 ---
 layout: page
-title: 源
 ---
 ## 源之召唤
 
@@ -43,10 +42,10 @@ title: 源
 是人类进入生成可能性 G 的  
 两条并列路径：**
 
-- [Xosophy · Theory](/xosophy/)  
+- [Xosophy · Theory 觉生源学](/xosophy/)  
   认知入口：对生成的理解与结构化展开
 
-- [Xopraxia · Practice](/xopraxia/)  
+- [Xopraxia · Practice 觉生实践](/xopraxia/)  
   实践入口：生成在身体与行为中的发生
 
 ---
