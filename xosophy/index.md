@@ -1,4 +1,4 @@
 ---
-title: 觉生学
+title: 觉生源学
 layout: page
 ---
