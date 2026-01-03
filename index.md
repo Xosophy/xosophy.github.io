@@ -1,10 +1,8 @@
-# 源之召唤 · Call of Source
-
-## 五日展开｜Five Days of Revelation
+# 源之召唤 · 五日显现
 
 ---
 
-### 📖 [第一日 Day 1｜宇宙的起源 The Origin of the Universe](./call-of-source/day1.md)
+### 📖 [第一日 Day 1｜宇宙的起源](./call-of-source/day1.md)
 
 宇宙不是被创造的，而是被生成的。它的真正源头，是生成的可能性 —— G。  
 > “G 是唯一不可再被追溯的源。”
@@ -35,8 +33,7 @@
 
 ---
 
-> 每一页，都是你与源之间的一次频率回响。  
-> Every page is a frequency echo between you and the Origin.
+> 每一日，都是你与源之间的一次频率回响。  
 
 ---
 
