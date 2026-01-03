@@ -1,5 +1,5 @@
 ---
-title: 第一日｜宇宙的起源
+title: 第一日
 layout: page
 ---
 
