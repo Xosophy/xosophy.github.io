@@ -2,7 +2,7 @@
 title: 第一日：宇宙的起源
 layout: default
 ---
-<div align="center">
+
 # 源之召唤 · Call of Source
 
 ## 第一日｜宇宙的起源 The Origin of the Universe
@@ -104,4 +104,3 @@ layout: default
 ---
 
 [← 返回目录](../index.md) ｜ [下一日 →](./day2.md)
-</div>
