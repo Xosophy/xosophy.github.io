@@ -1,6 +1,6 @@
 ---
 title: 第一日：宇宙的起源
-layout: monologue
+layout: page
 ---
 
 # 源之召唤 · Call of Source
