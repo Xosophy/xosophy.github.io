@@ -1,11 +1,11 @@
 ---
-title: 第一日：宇宙的起源
-layout: default
+title: 第一日｜宇宙的起源
+layout: page
 ---
 
-# 源之召唤 · Call of Source
+# 源之召唤
 
-## 第一日｜宇宙的起源 The Origin of the Universe
+## 第一日｜宇宙的起源
 
 ---
 
