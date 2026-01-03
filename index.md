@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 源之召唤
+title: Xosophy · 觉生
 ---
-
+## 源之召唤
 
 ### 📖 [第一日｜宇宙的起源](./call-of-source/day1.md)
 
