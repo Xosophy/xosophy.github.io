@@ -1,12 +1,3 @@
-# Xosophy
-
-**Xosophy 与 Xopraxia  
-是人类进入生成可能性 G 的  
-两个绝对并列入口：  
-一个是认知的，一个是实践的。**
-
----
-
 # 源之召唤 · Call of Source
 
 ## 五日展开｜Five Days of Revelation
@@ -51,7 +42,9 @@
 
 ## 入口
 
-进入之后，存在两条并列路径：
+**Xosophy 与 Xopraxia  
+是人类进入生成可能性 G 的  
+两条并列路径：**
 
 - [Xosophy · Theory](/xosophy/)  
   认知入口：对生成的理解与结构化展开
