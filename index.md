@@ -1,6 +1,6 @@
 ---
 layout: page
-title: XoCivil · 觉生文明
+title: XoCiv · 觉生文明
 ---
 # 源之召唤
 
