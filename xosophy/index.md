@@ -1,4 +1,4 @@
 ---
-title: 觉生理论 · Xosophy Theory
+title: 觉生哲学 · Xosophy
 layout: page
 ---
