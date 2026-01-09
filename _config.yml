@@ -4,3 +4,4 @@ markdown: kramdown
 header_pages:
   - xosophy/index.md
   - xopraxia/index.md
+  - xoscience/index.md
