@@ -50,7 +50,7 @@ title: XoCiv · 觉生文明
   
 ---
 
-# 展开之领域
+# 展开之域
 
 - [XoScience 觉生科学](/xoscience/)   
 是科学全领域展开之域
