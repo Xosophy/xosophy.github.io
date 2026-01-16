@@ -36,7 +36,7 @@ title: XoCiv · 觉生文明
 ---
 
 
-# 入口
+# 觉生之门
 
 **Xosophy 与 Xopraxia  
 是人类进入生成可能性 G 的  
@@ -50,7 +50,7 @@ title: XoCiv · 觉生文明
   
 ---
 
-# 展开
+# 展开之领域
 
 - [XoScience 觉生科学](/xoscience/)   
 是科学全领域展开之域
@@ -58,8 +58,7 @@ title: XoCiv · 觉生文明
 ---
 ## 语言 / Languages
 
-> 本站以中文为源文。  
-> 你可以通过自动翻译，用自己的语言阅读全部内容。
+> 🌐 中文为源文，其他语言为浏览器翻译结果，仅用于辅助理解。
 
 - [English](https://translate.google.com/translate?sl=zh-CN&tl=en&u=https://xosophy.github.io)
 - [Español](https://translate.google.com/translate?sl=zh-CN&tl=es&u=https://xosophy.github.io)
@@ -69,7 +68,6 @@ title: XoCiv · 觉生文明
 - [한국어](https://translate.google.com/translate?sl=zh-CN&tl=ko&u=https://xosophy.github.io)
 - [More languages…](/languages/)
 
-*除中文外，其它语言版本均为自动翻译，仅用于理解辅助。*
 ---
 
 ## Contact
