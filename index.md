@@ -42,7 +42,7 @@ title: XoCiv · 觉生文明
 是人类进入生成可能性 G 的  
 两条并列路径：**
 
-- [Xosophy 觉生哲学](/xosophy/)  
+- [Xosophy 觉生源学](/xosophy/)  
   认知入口：对生成的理解与结构化展开
 
 - [Xopraxia 觉生实践](/xopraxia/)  
